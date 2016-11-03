@@ -23,15 +23,8 @@
 
     "repositories": [
         {
-            "url": "https://github.com/mahfuzphp/nestedset.git",
-            "type": "git"
+            "url": "https://github.com/mahfuzphp/nestedset-laravel.git",
+            "type": "vcs"
         }
-    ],
-
-
-    "extra": {
-        "branch-alias": {
-            "master": "v1"
-        }
-    }
+    ]
 }
