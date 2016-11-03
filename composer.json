@@ -1,0 +1,37 @@
+{
+    "name": "mahfuz/nestedset",
+    "description": "Nested Set Model for Laravel 5",
+    "keywords": ["laravel", "nested sets", "nsm", "database", "hierarchy"],
+    "license": "MIT",
+
+    "authors": [
+        {
+            "name": "Mahfuz",
+            "email": "mahfuzphp@gmail.com"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.5.9"
+    },
+
+    "autoload": { "psr-4": { "Mahfuz\\Nestedset\\": "src/" } },
+
+    "require-dev": {
+        "phpunit/phpunit": "4.8.*"
+    },
+
+    "repositories": [
+        {
+            "url": "https://github.com/mahfuzphp/nestedset.git",
+            "type": "git"
+        }
+    ],
+
+
+    "extra": {
+        "branch-alias": {
+            "master": "v1"
+        }
+    }
+}
