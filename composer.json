@@ -21,10 +21,15 @@
         "phpunit/phpunit": "4.8.*"
     },
 
+
+	
+	{
+    
     "repositories": [
         {
-            "url": "https://github.com/mahfuzphp/nestedset-laravel.git",
-            "type": "vcs"
+            "type": "git",
+            "url":  "https://github.com/mahfuzphp/nestedset-laravel.git",
         }
     ]
+}
 }
